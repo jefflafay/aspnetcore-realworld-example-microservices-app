@@ -1,4 +1,4 @@
-# A different implementation
+# A Different Implementation, Engineered as Micro Services
 I forked this codebase so I can get my hands dirty breaking up a monolithic architecture into a microservices architecture. I'll be using [Microservices in .Net Core 2ed.](https://www.manning.com/books/microservices-in-net-core-second-edition) to help me through the process.
 
 # ![RealWorld Example App](logo.png)
