@@ -1,3 +1,6 @@
+# A different implementation
+I forked this codebase so I can get my hands dirty breaking up a monolithic architecture into a microservices architecture. I'll be using [Microservices in .Net Core 2ed.](https://www.manning.com/books/microservices-in-net-core-second-edition) to help me through the process.
+
 # ![RealWorld Example App](logo.png)
 
 ASP.NET Core codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
