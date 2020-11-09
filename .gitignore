@@ -283,3 +283,6 @@ tools
 .env
 
 .DS_Store
+
+# default sqlite db file that's created
+realworld.db
